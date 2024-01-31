@@ -1,0 +1,23 @@
+boy{
+    background-image: url('https://frontierindia.com/wp-content/uploads/2021/09/the-weeknd.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h4{
+    color: blue;
+}
+table,th{
+    border: 1px solid black;
+}
+.table,td,th{
+    height:40px;
+    width: 300px;
+    margin: 15px;
+}
+
+p{
+   background-color: antiquewhite;
+   opacity: .5;
+}
