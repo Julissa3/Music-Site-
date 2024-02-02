@@ -1,5 +1,5 @@
-boy{
-    background-image: url('https://frontierindia.com/wp-content/uploads/2021/09/the-weeknd.webp');
+body{
+    background-image: url('https://images.hdqwalls.com/download/the-weeknd-blinding-lights-sy-1920x1080.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -8,16 +8,24 @@ boy{
 h4{
     color: blue;
 }
-table,th{
-    border: 1px solid black;
-}
+
 .table,td,th{
     height:40px;
     width: 300px;
     margin: 15px;
 }
 
+table,th{
+    border: 3px solid rgb(104, 99, 99);
+}
 p{
    background-color: antiquewhite;
    opacity: .5;
+}
+
+table, th, td{
+    background-color: aliceblue;
+}
+h1{
+    color: red;
 }
